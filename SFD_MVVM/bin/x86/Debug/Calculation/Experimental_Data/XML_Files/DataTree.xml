@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Мыши>
+  <Мышь>
+    <Номер>1</Номер>
+    <Орган>Heart</Орган>
+    <ВведённаяДоза>1</ВведённаяДоза>
+    <ТекущаяКонцентрация>2.581</ТекущаяКонцентрация>
+    <ПрошедшееВремя>00:05:00</ПрошедшееВремя>
+    <ПутьКИзображению>C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\SFD_MVVM\SFD_MVVM\bin\x86\Debug\Calculation\Experimental_Data\Images\DataImge_19_9_2016(19_42_40).bmp</ПутьКИзображению>
+  </Мышь>
+  <Мышь>
+    <Номер>2</Номер>
+    <Орган>Kidneys</Орган>
+    <ВведённаяДоза>1</ВведённаяДоза>
+    <ТекущаяКонцентрация>0.949</ТекущаяКонцентрация>
+    <ПрошедшееВремя>00:20:00</ПрошедшееВремя>
+    <ПутьКИзображению>C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\SFD_MVVM\SFD_MVVM\bin\x86\Debug\Calculation\Experimental_Data\Images\DataImge_19_9_2016(19_42_57).bmp</ПутьКИзображению>
+  </Мышь>
+  <Мышь>
+    <Номер>3</Номер>
+    <Орган>Liver</Орган>
+    <ВведённаяДоза>1</ВведённаяДоза>
+    <ТекущаяКонцентрация>2.209</ТекущаяКонцентрация>
+    <ПрошедшееВремя>00:50:00</ПрошедшееВремя>
+    <ПутьКИзображению>C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\SFD_MVVM\SFD_MVVM\bin\x86\Debug\Calculation\Experimental_Data\Images\DataImge_19_9_2016(19_43_12).bmp</ПутьКИзображению>
+  </Мышь>
+  <Мышь>
+    <Номер>4</Номер>
+    <Орган>Heart</Орган>
+    <ВведённаяДоза>1</ВведённаяДоза>
+    <ТекущаяКонцентрация>1.662</ТекущаяКонцентрация>
+    <ПрошедшееВремя>00:22:00</ПрошедшееВремя>
+    <ПутьКИзображению>C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\SFD_MVVM\SFD_MVVM\bin\x86\Debug\Calculation\Experimental_Data\Images\DataImge_19_9_2016(19_43_45).bmp</ПутьКИзображению>
+  </Мышь>
+</Мыши>
